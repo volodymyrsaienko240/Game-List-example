@@ -4,12 +4,12 @@
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-12/GameList/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-2/sites/site-12/GameList/index.html
 
 ### }
 
 ## Codepen {
 
-### https://codepen.io/vladimirsaenko/pen/dyWpOBz
+### https://codepen.io/volodymyrsaienko240/pen/dyWpOBz
 
 ### }
